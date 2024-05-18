@@ -18,7 +18,7 @@ Cook Apps PxP Studio의 과제를 수행한 프로젝트입니다.
      - 최대 체력 : 최대 체력을 늘려줍니다. 현재 체력에는 영향을 끼치지 않습니다.
      - 공격력 : 공격력을 높여줍니다.
 
-![image](https://github.com/hoper7748/Assignment/assets/50869470/389db20b-ddce-4ee6-8c92-cd7f3cdd921d)
+![image](https://github.com/hoper7748/Assignment/assets/50869470/8215f045-f96d-437a-8e3f-76e9c8cab853)
 
 좌측부터 직업 / 상(체력) 하(공격력) / 최대체력 증가 / 공격력 증가 
 
